@@ -26,5 +26,11 @@ Downstream use must not contradict or reinterpret upstream authority.
 - Internal Enterprise: Annual license
 - Vendors / Consultancies: Per-client license
 - Tooling / SaaS: Embedded license
+## Commercial & Institutional Use
 
+Commercial or institutional use of Hollow House Institute terminology
+(including **Behavioral Drift**, **Decision Substitution**, **Stable Mirrors**,
+**Governance Infrastructure**, and related terms) requires a language use license.
+
+Contact: **data@hollowhouseinstitute.org**
 Contact: data@hollowhouseinstitute.org
